@@ -1,0 +1,27 @@
+# Node / React
+node_modules/
+dist/
+build/
+.next/
+.vite/
+*.log
+
+# Python
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env & uploads
+.env
+*.env
+uploads/
